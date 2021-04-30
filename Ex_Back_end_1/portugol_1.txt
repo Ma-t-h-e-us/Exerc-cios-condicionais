@@ -1,0 +1,14 @@
+inicio {
+    escreva ("Qual a sua idade?")
+    numérico idade = leia
+
+    numérico idadeMeses = idade * 12
+    numérico idadeDias = idade * 365
+    numérico idadeHoras = idadeDias * 24
+    numérico idadeMinutos = idadeHoras * 60
+
+    escreva ("você tem " + idadeMeses + " meses de vida")
+    escreva ("você tem " + idadeDias + " dias de vida")
+    escreva ("você tem " + idadeHoras + " horas de vida")
+    escreva ("você tem " + idadeMinutos + " minutos de vida")
+}

@@ -1,0 +1,16 @@
+C:\Users\T-Gamer\Desktop\Ex_Back_end\bin\Debug\net5.0\Ex_Back_end.exe
+C:\Users\T-Gamer\Desktop\Ex_Back_end\bin\Debug\net5.0\Ex_Back_end.deps.json
+C:\Users\T-Gamer\Desktop\Ex_Back_end\bin\Debug\net5.0\Ex_Back_end.runtimeconfig.json
+C:\Users\T-Gamer\Desktop\Ex_Back_end\bin\Debug\net5.0\Ex_Back_end.runtimeconfig.dev.json
+C:\Users\T-Gamer\Desktop\Ex_Back_end\bin\Debug\net5.0\Ex_Back_end.dll
+C:\Users\T-Gamer\Desktop\Ex_Back_end\bin\Debug\net5.0\ref\Ex_Back_end.dll
+C:\Users\T-Gamer\Desktop\Ex_Back_end\bin\Debug\net5.0\Ex_Back_end.pdb
+C:\Users\T-Gamer\Desktop\Ex_Back_end\obj\Debug\net5.0\Ex_Back_end.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Ex_Back_end\obj\Debug\net5.0\Ex_Back_end.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Desktop\Ex_Back_end\obj\Debug\net5.0\Ex_Back_end.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\Ex_Back_end\obj\Debug\net5.0\Ex_Back_end.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\Ex_Back_end\obj\Debug\net5.0\Ex_Back_end.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Ex_Back_end\obj\Debug\net5.0\Ex_Back_end.dll
+C:\Users\T-Gamer\Desktop\Ex_Back_end\obj\Debug\net5.0\ref\Ex_Back_end.dll
+C:\Users\T-Gamer\Desktop\Ex_Back_end\obj\Debug\net5.0\Ex_Back_end.pdb
+C:\Users\T-Gamer\Desktop\Ex_Back_end\obj\Debug\net5.0\Ex_Back_end.genruntimeconfig.cache

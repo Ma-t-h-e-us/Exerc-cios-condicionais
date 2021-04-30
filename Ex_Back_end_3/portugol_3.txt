@@ -1,0 +1,11 @@
+inicio {
+    escreva ("qual é seu salário?")
+    numérico salario = leia
+
+    se (salario < 500) {
+        numérico salarioComAumento = salario * 30 / 100 + salario
+        escreva ("seu salario teve um aumento de 30%, agora está com valor de R$ " + salarioComAumento)   
+    } else {
+        escreva ("desculpe, você não tem direito a um aumento :(")
+    }
+}

@@ -1,0 +1,13 @@
+inicio {
+    escreva ("em que ano estamos?")
+    numérico anoAtual = leia
+
+    escreva ("em que ano você nasceu?)
+    numérico anoNascimento = leia
+
+    numérico idadeDaPessoa = anoAtual - anoNascimento
+    numérico idadeEmSemanas = idadeDaPessoa * 48
+
+    escreva ("você tem " + idadeDaPessoa + "anos")
+    escreva ("você tem " + idadeEmSemanas + " semanas de vida")
+}
